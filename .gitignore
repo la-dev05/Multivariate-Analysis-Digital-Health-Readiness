@@ -55,3 +55,6 @@ wheels/
 outputs/
 Deprecated Files/
 CADS Project Proposal.md
+
+# Large data files (exceeds GitHub limit)
+*.dta
